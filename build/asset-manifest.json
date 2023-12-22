@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/q2zentrade/static/css/main.e6c13ad2.css",
+    "main.js": "/q2zentrade/static/js/main.6626f213.js",
+    "static/js/787.90b11c8a.chunk.js": "/q2zentrade/static/js/787.90b11c8a.chunk.js",
+    "index.html": "/q2zentrade/index.html",
+    "main.e6c13ad2.css.map": "/q2zentrade/static/css/main.e6c13ad2.css.map",
+    "main.6626f213.js.map": "/q2zentrade/static/js/main.6626f213.js.map",
+    "787.90b11c8a.chunk.js.map": "/q2zentrade/static/js/787.90b11c8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6626f213.js"
+  ]
+}
